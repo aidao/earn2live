@@ -1,3 +1,5 @@
+- Cursor Agent Skills https://cursor.com/cn/docs/context/skills
+- Cursor Agent Best Practice https://cursor.com/cn/blog/agent-best-practices
 - 前端开发AI Agent智能体 https://mp.weixin.qq.com/s/wylewnVxyJzeGkQqdCiLqg
 - 不写代码、不花钱, 如何利用智能体与MCP 实现UI前端开发 https://mp.weixin.qq.com/s/EplHjVbG9kSTDVgc858MLw
 - 智能体（AI Agent）开发完整指南 https://mp.weixin.qq.com/s/40uJUP9oO8ARNuZYT0jKCg
